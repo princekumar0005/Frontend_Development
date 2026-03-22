@@ -1,11 +1,11 @@
-🚀 Frontend Development Daily Progress
+#🚀 Frontend Development Daily Progress
 
 This repository tracks my day-to-day learning journey in Frontend Development. It includes topics, practice work, projects, and resources I used while improving my skills.
 
 
 ---
 
-📅 Learning Goal
+#📅 Learning Goal
 
 Become a skilled Frontend Developer
 
@@ -17,7 +17,7 @@ Master HTML, CSS, JavaScript, and frameworks
 
 ---
 
-🗂️ Daily Progress
+#🗂️ Daily Progress
 
 📘 Week 1: HTML Basics
 
@@ -119,7 +119,7 @@ Day 35: Project (React app)
 
 ---
 
-📁 Projects
+#📁 Projects
 
 HTML Project: Basic webpage
 
@@ -151,7 +151,7 @@ VS Code
 
 ---
 
-📚 Resources
+#📚 Resources
 
 YouTube tutorials
 
@@ -163,7 +163,7 @@ Practice platforms (CodePen, LeetCode)
 
 ---
 
-📌 How to Use This Repo
+#📌 How to Use This Repo
 
 1. Follow daily tasks
 
@@ -181,7 +181,7 @@ Practice platforms (CodePen, LeetCode)
 
 ---
 
-🌟 Progress Tracker
+#🌟 Progress Tracker
 
 [ ] Week 1 Completed
 
