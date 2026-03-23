@@ -57,23 +57,23 @@ Frameworks (React - upcoming)
 - Boilerplate structure
 
   
-<!--
+
 ---
 
-📍 Day 2 – HTML Basics
+<h2>📍 Day 2 – HTML Basics</h2>
 
-Links (<a>)
+ -- Links 
 
-Images (<img>)
+ -- Images 
 
-Lists (<ul>, <ol>, <li>)
+ -- Lists 
 
-Line break (<br>)
+ -- Line break 
 
-Horizontal line (<hr>)
+ -- Horizontal line 
 
 
-
+<!--
 ---
 
 📍 Day 3 – Forms & Inputs
