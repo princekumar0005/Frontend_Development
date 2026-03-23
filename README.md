@@ -49,7 +49,7 @@ Frameworks (React - upcoming)
 - Tags and elements
 
 - Headings (<h1> - <h6>)
-  
+
 
 - Paragraph (<p>)
   
