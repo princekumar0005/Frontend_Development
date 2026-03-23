@@ -22,8 +22,11 @@ Master HTML, CSS, JavaScript, and frameworks
 ### DAY -1
 
 - What is HTML
-- Basic structure (<!DOCTYPE>, <html>, <head>, <body>)
-- Headings, paragraphs
+- Basic structure (<!DOCTYPE>,
+   <html>, <head>, <body>)
+- Basic HTML Tags
+    
+  
       
 
 
