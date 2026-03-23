@@ -20,6 +20,10 @@ Master HTML, CSS, JavaScript, and frameworks
 # 🗂️ Daily Progress
 
 # DAY -1
+
+- What is HTML
+- Basic structure (<!DOCTYPE>, <html>, <head>, <body>)
+- Headings, paragraphs
       
 
 
