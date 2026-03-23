@@ -62,15 +62,15 @@ Frameworks (React - upcoming)
 
 <h2>📍 Day 2 – HTML Basics</h2>
 
- -- Links 
+ - Links 
 
- -- Images 
+ - Images 
 
- -- Lists 
+ - Lists 
 
- -- Line break 
+ - Line break 
 
- -- Horizontal line 
+ - Horizontal line 
 
 
 <!--
