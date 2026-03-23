@@ -1,88 +1,257 @@
-# 🚀 Frontend Development Daily Progress
+---
 
-This repository tracks my day-to-day learning journey in Frontend Development. It includes topics, practice work, projects, and resources I used while improving my skills.
+# 🚀 Frontend Development Journey
+
+Welcome to my Frontend Development Learning Journey 👨‍💻
+This repository documents my day-by-day progress, covering everything from basics to advanced concepts.
 
 
 ---
 
-# 📅 Learning Goal
+# 📌 Goal
 
-Become a skilled Frontend Developer
+Learn frontend development step by step
 
 Build real-world projects
 
-Master HTML, CSS, JavaScript, and frameworks
+Become job-ready 💼
 
 
 
 ---
 
-# 🗂️ Daily Progress
+# 🛠️ Tech Stack
 
-### DAY -1
+HTML
 
-- What is HTML
-- Basic structure (<!DOCTYPE>,<html>, <head>, <body>)
-- Basic HTML Tags (Headings,<a>,<p>, <img>)
-    
-  
-      
+CSS
 
-
-
-
-
-
-
-
-
----
-
-# 🛠️ Tools & Technologies
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-React.js
+JavaScript
 
 Git & GitHub
 
-VS Code
+Responsive Design
+
+Frameworks (React - upcoming)
 
 
 
 ---
 
-# 📚 Resources
+# 📅 Day-by-Day Learning
 
-YouTube tutorials
+📍 Day 1 – Introduction to HTML
 
-Documentation (MDN Web Docs)
+What is HTML?
 
-Practice platforms (CodePen, LeetCode)
+Basic structure of HTML
+
+Tags and elements
+
+Headings (<h1> - <h6>)
+
+Paragraph (<p>)
+
+Boilerplate structure
+
+
+
+<!-----
+
+📍 Day 2 – HTML Basics
+
+Links (<a>)
+
+Images (<img>)
+
+Lists (<ul>, <ol>, <li>)
+
+Line break (<br>)
+
+Horizontal line (<hr>)
 
 
 
 ---
 
+📍 Day 3 – Forms & Inputs
 
+Form basics
 
+Input types
+
+Labels
+
+Buttons
 
 
 
 ---
 
+📍 Day 4 – Semantic HTML
+
+Semantic tags (<header>, <footer>, <section>)
+
+Importance of SEO
+
+
 
 ---
 
-✨ Author
+📍 Day 5 – Introduction to CSS
 
-Prince Kumar 
+What is CSS?
+
+Inline, Internal, External CSS
+
+Selectors
+
+Colors
+
 
 
 ---
 
-💡 Consistency is the key to success. Keep learning and building!
+📍 Day 6 – CSS Box Model
+
+Margin
+
+Padding
+
+Border
+
+Content
+
+
+
+---
+
+📍 Day 7 – CSS Layout
+
+Display properties
+
+Flexbox basics
+
+
+
+---
+
+📍 Day 8 – Responsive Design
+
+Media queries
+
+Mobile-first design
+
+
+
+---
+
+📍 Day 9 – JavaScript Basics
+
+Variables (let, const, var)
+
+Data types
+
+Operators
+
+
+
+---
+
+📍 Day 10 – JavaScript Logic
+
+Functions
+
+Conditions (if-else)
+
+Loops
+
+
+
+---
+
+📍 Day 11 – DOM Manipulation
+
+Selecting elements
+
+Events
+
+Changing content
+
+
+
+---
+
+📍 Day 12 – Mini Project
+
+Build a simple webpage using HTML + CSS + JS
+
+
+
+---
+
+📍 Day 13+ (Upcoming)
+
+Advanced JavaScript
+
+APIs
+
+React.js ⚛️
+
+
+
+----->
+
+📂 Projects
+
+Project Name	Description
+
+Coming Soon	🚧
+
+
+
+---
+
+📈 Progress Tracker
+
+✅ HTML Basics
+
+⏳ CSS
+
+⏳ JavaScript
+
+⏳ React
+
+
+
+---
+
+💡 Why This Repo?
+
+Track my growth 📊
+
+Stay consistent 📅
+
+Help others learn 🤝
+
+
+
+---
+
+🤝 Connect With Me
+
+GitHub: (Add your link here)
+
+LinkedIn: (Optional)
+
+
+
+---
+
+⭐ Support
+
+If you like this repo, don’t forget to star ⭐ it!
+
+
+---
+
