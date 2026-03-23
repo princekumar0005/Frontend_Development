@@ -18,12 +18,10 @@ Master HTML, CSS, JavaScript, and frameworks
 ---
 
 # 🗂️ Daily Progress
-
- <pre> <h1>DAY-1</h1>
-              & What is HTML
-              - Basic structure (<!DOCTYPE>, <html>, <head>, <body>)
-              - Headings, paragraphs
-</pre>
+###### DAY-1
+      - What is HTML
+     -  Basic structure (<!DOCTYPE>, <html>, <head>, <body>)
+      - Headings, paragraphs
 
 
 
