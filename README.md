@@ -40,7 +40,7 @@ Frameworks (React - upcoming)
 
 # 📅 Day-by-Day Learning
 
-📍 Day 1 – Introduction to HTML
+<h2>📍 Day 1 – Introduction to HTML</h2>
 
 - What is HTML?
 
