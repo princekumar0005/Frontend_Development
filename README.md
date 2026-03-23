@@ -60,9 +60,6 @@ Frameworks (React - upcoming)
 
 ---
 
-
-
-<!--
 📍 Day 2 – HTML Basics
 
 Links (<a>)
