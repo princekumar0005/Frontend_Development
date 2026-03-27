@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    
+    text-align: center;
+    text-transform: uppercase;
+    font-style:italic;
+    color: aqua;
+}
+hr{
+    border: 2px solid black;
+
+}
+label{
+    color: darkblue;
+    
+}
