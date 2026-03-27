@@ -1,0 +1,48 @@
+<!-- Quick Quiz:
+    Without using br tag, write a vertically aligned form asking for name, city and pincode of a user.
+    Everyone must comment -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Form</title>
+    <style>
+        form {
+            width: 250px;
+        }
+        label {
+            display: block; /* Makes label appear on its own line */
+            margin-top: 10px;
+        }
+        input {
+            display: block; /* Places input below label */
+            width: 100%;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Form starts here -->
+    <form>
+        
+        <!-- Name field -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+
+        <!-- City field -->
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city">
+
+        <!-- Pincode field -->
+        <label for="pincode">Pincode:</label>
+        <input type="text" id="pincode" name="pincode">
+
+        <!-- Submit button -->
+        <input type="submit" value="Submit">
+
+    </form>
+    <!-- Form ends here -->
+
+</body>
+</html>
